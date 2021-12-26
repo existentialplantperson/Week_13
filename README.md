@@ -22,3 +22,6 @@ https://datavizpyr.com/how-to-make-scatter-plot-with-regression-line-using-seabo
 bottle.csv and cast.csv info:
 https://new.data.calcofi.org/index.php/database/calcofi-database/bottle-field-descriptions
 https://new.data.calcofi.org/index.php/database/calcofi-database/cast-table-column-descriptions
+
+Preprocessing:
+https://scikit-learn.org/stable/modules/preprocessing.html
