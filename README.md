@@ -1,6 +1,9 @@
 # Week_13
 Week 13 - Supervised Machine Learning
 
+Machine Learning - Google Crash Course 
+https://developers.google.com/machine-learning/crash-course/ml-intro
+
 .compile()
 https://docs.python.org/3/library/re.html
 https://pynative.com/python-regex-compile/
